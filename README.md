@@ -56,12 +56,6 @@ The goal of this dashboard is to help businesses monitor sales performance, iden
 
 ---
 
-## 📸 Dashboard Preview
-
-<img src="C:/Users/charu/OneDrive/Pictures/Screenshots/mobile_sales_dashboard.png" width="100%">
-
----
-
 ## 📁 Dashboard Components
 
 ### KPI Cards
