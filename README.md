@@ -111,7 +111,6 @@ Aspiring Data Analyst
 - MySQL
 - Python
 - Excel
-- Snowflake
 - Data Analytics
 - Data Visualization
 - DAX
